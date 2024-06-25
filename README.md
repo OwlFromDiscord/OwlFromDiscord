@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-22, College Student, Currently learning Pythonf and beginning my coding journey!
+22, College Student, Currently learning Python on Codedex and beginning my coding journey!
 
 Any Pronouns, idrc
 
